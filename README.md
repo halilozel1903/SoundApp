@@ -2,7 +2,7 @@
 
 ![Screenshot](swift.jpg)
 
-Swift 4 ile geliştirilen bir iOS uygulamasıdır. İçerisinde ses dosyaları ile ilgili birkaç işlem barındırır.
+Swift 5 ile geliştirilen bir iOS uygulamasıdır. İçerisinde ses dosyaları ile ilgili birkaç işlem barındırır.
 Ses dosyasını açma,duraklatma ya da kapatma işlemlerini yapacağız. Bu uygulamadaki amacımız ses dosyaları ile nasıl
 çalışılır onu öğrenmek ve projelerimizde bu yapıyı kullanmaktır. <br>
 
